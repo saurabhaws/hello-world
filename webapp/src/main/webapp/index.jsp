@@ -5,7 +5,7 @@
     <hr>
 
     <label for="gmail"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="gmail" id="gmail" required>
+    <input type="text" placeholder="Enter Gmail" name="gmail" id="gmail" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
